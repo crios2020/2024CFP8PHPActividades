@@ -1,0 +1,22 @@
+Trabajo 3 
+
+Realizar este trabajo en PHP
+
+Entrega para el 30/10/2024
+
+https://tn.com.ar/sociedad/2021/02/08/imc-que-es-y-como-se-calcula/?outputType=amp
+
+1 - Leer la nota, la misma sera considerada como caso de estudio y documentación del proyecto
+2 - Armar un proyecto HTML PHP CSS Bootstrap sobre dicha nota.
+        a - Determinar cuales son los datos de entrada para el imc.
+        b - Crear una función para calcular el IMC 
+				(Debe ingresar como párametros int peso y int altura, retorna un 
+				valor double con el valor del IMC, según detalles de publicación).
+        c - Crear una función para calcular estado (Delgadez - Normal - Obesidad etc 
+				según detalles de publicación)
+				(ingresa como párametro un valor double con el valor del IMC y 
+				devuelve un valor String con el estado)
+        d - Informar IMC y Estado.
+        e - La aplicación debe ser responsiva y funcionar bien en cualquier dispositivo 
+			movil, Tablet PC o smartTV.
+		f - No se corrige código mal indentado.
